@@ -1,0 +1,16 @@
+{
+	"name": "RJ_Healing",
+	"description": "Changes how Healing Potions, healing by Food and Bandages works.\n\nAll Healing Potions now take 10 seconds to do the job.\n\nFood heals during combat but the time it takes for food to do it's job has been increased significantly so it's not really a way to get your health back during combat. The amout it heals is unchanged.\n\nBandages can now be used during combat, but you can still not move. They are mainly a means to remove Cripple and Bleed debuffs as their healing effect is small. Bandaging will be interrupted if you move, dodge, is knocked back, stunned or die!! Any Cripple and Bleed debuffes will be removed and the end of bandages buff. Improved bandages are a bit quicker now (3 seconds, down from 5).\n\nThe message you get when any of the buffs are aborted have changed to reflect what it comes from. \"healing, regeneration or bandaging\"",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 1,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "RJ_Healing",
+	"revisionNumber": 104551,
+	"snapshotId": 18892
+}
